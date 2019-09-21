@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lolaajahv.jacobsanford.com/sitemap.xml
